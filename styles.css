@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue; /* Change this color to whatever you prefer */
+    font-family: Arial, sans-serif; /* Optional: sets a nicer font */
+}
+
+h1 {
+    text-align: center; /* Center the heading */
+}
+
+button {
+    margin: 10px; /* Add some space around buttons */
+    padding: 10px 20px; /* Add padding inside buttons */
+    font-size: 16px; /* Set the font size for buttons */
+}
+
+p {
+    text-align: center; /* Center the paragraph */
+    font-size: 20px; /* Set the font size for paragraph */
+}
+
+.centered {
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center the items horizontally */
+    align-items: center; /* Center the items vertically */
+    flex-direction: column; /* Stack items vertically */
+}
